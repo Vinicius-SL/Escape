@@ -2,17 +2,17 @@
 	<page background="hell.jpg">
   <agent img="lava.jpg" x="0" y="-50" width="100" height="150"/>
       <agent img="lava.jpg" x="99" y="-50" width="100" height="150"/>
-      <agent img="Acid (1).png" x="198" y="-50" width="100" height="150"/>
-      <agent img="Acid (1).png" x="297" y="-50" width="100" height="150"/>
-      <agent img="Acid (1).png" x="396" y="-50" width="100" height="150"/>
-      <agent img="Acid (1).png" x="495" y="-50" width="100" height="150"/>
+      <agent img="lava.jpg" x="198" y="-50" width="100" height="150"/>
+      <agent img="lava.jpg" x="297" y="-50" width="100" height="150"/>
+      <agent img="lava.jpg" x="396" y="-50" width="100" height="150"/>
+      <agent img="lava.jpg" x="495" y="-50" width="100" height="150"/>
         
   <agent img="Tile (13).png" x="0" y="100" width="100" height="100"/>
-        <agent img="Tile (13).png" x="100" y="100" width="100" height="100"/>
-        <agent img="Tile (13).png" x="199" y="100" width="100" height="100"/>
-        <agent img="Tile (13).png" x="298" y="100" width="100" height="100"/>
-        <agent img="Tile (13).png" x="397" y="100" width="100" height="100"/>
-        <agent img="Tile (13).png" x="495" y="100" width="100" height="100"/>
+        <agent img="Tile (13).png" x="100" y="10" width="100" height="100"/>
+        <agent img="Tile (13).png" x="199" y="10" width="100" height="100"/>
+        <agent img="Tile (13).png" x="298" y="10" width="100" height="100"/>
+        <agent img="Tile (13).png" x="397" y="10" width="100" height="100"/>
+        <agent img="Tile (13).png" x="495" y="10" width="100" height="100"/>
 
  
   </page>
