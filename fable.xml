@@ -14,6 +14,6 @@
         <agent img="Tile (13).png" x="397" y="100" width="100" height="100"/>
         <agent img="Tile (13).png" x="495" y="100" width="100" height="100"/>
 
-  <agent img="Tile (13).png" x="0" y="100" width="100" height="100"/>
+  <agent img="" x="0" y="100" width="100" height="100"/>
   </page>
 </fable>
