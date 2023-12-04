@@ -26,5 +26,8 @@
       <portaOpen img="open.png" x="330" y="155" width="70" height="120" on-touch="_NEXT_PAGE"/>
   </agent>
   </page>
-    
+
+ <page background="bg.png">
+     <agent img=""
+ </page>
 </fable>
