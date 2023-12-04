@@ -22,6 +22,7 @@
   <agent img="locked.png" x="330" y="155" width="70" height="120"/>
 
   <agent img="switchLock.png" x="470" y="395" width="30" height="70" on-touch="trocarimage"
-      <trocarimagem/>
+      <trocarimagem = />
+      />
   </page>
 </fable>
