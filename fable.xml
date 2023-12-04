@@ -27,7 +27,7 @@
   </agent>
   </page>
 
- <page background="bg.png" soundtrack="">
+ <page background="bg.png" soundtrack="Stage.mp3">
      
      <agent text="PARABÉNS! VOCÊ CONSEGUIU FUGIR DO HELL!" x="20" y="340" color="blue" font-size="20"/>
      
@@ -40,6 +40,6 @@
      <agent img="2.png" x="395" y="0" width="100" height="100"/>
      <agent img="2.png" x="494" y="0" width="100" height="100"/>
 
-     
+    
  </page>
 </fable>
