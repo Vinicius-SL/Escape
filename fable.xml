@@ -29,7 +29,7 @@
 
  <page background="bg.png">
      
-     <agent text="PARABÉNS! VOCÊ CONSEGUIU FUGIR DO HELL!" x="10" y="450" color="blue" font-size="20"/>
+     <agent text="PARABÉNS! VOCÊ CONSEGUIU FUGIR DO HELL!" x="20" y="340" color="blue" font-size="20"/>
      
      <agent img="JumpAttack (10).png" x="210" y="89" width="100" height="100"/>
 
