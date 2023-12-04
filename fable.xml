@@ -28,6 +28,6 @@
   </page>
 
  <page background="bg.png">
-     <agent img=""
+     <agent img="JumpAttack (10).png" x="0" y="0" width="0" height="0"
  </page>
 </fable>
