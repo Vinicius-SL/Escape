@@ -16,7 +16,7 @@
         <agent img="Tile (13).png" x="400" y="300" width="100" height="100"/>
         
   <agent img="Idle (1).png" x="0" y="150" width="100" height="100" draggable="true"
-      on-drop="chestopen" on-zone="after-chestopen" 
+      on-drop="chesto" on-zone="after-chestopen" 
       on-trigger="after-chestopen"
 />
         
