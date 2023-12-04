@@ -1,5 +1,5 @@
 <fable>
-	<page background="hell.jpg" soundtrack="">
+	<page background="hell.jpg" soundtrack="Fear.mp3">
   <agent text="DESTRUA O PAINEL!" x="20" y="450" color="white" font-size="20"/>
   <agent img="lava.jpg" x="0" y="-50" width="100" height="150"/>
       <agent img="lava.jpg" x="99" y="-50" width="100" height="150"/>
@@ -27,7 +27,7 @@
   </agent>
   </page>
 
- <page background="bg.png">
+ <page background="bg.png" soundtrack="">
      
      <agent text="PARABÉNS! VOCÊ CONSEGUIU FUGIR DO HELL!" x="20" y="340" color="blue" font-size="20"/>
      
