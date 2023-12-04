@@ -20,9 +20,14 @@
     
   <agent img="switchLock.png" x="440" y="395" width="30" height="70" 
       drop-zone="painel" drop-zone="painelverde">
-      
       <painel x="-500"/>
       <painelverde img="switchUnlocked.png" x="440" y="395" width="30" height="70"/>
   </agent>
+
+  
+
+
+
+        
   </page>
 </fable>
