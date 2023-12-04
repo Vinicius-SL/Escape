@@ -20,10 +20,10 @@
         
 
             
-  <agent img="switchLock.png" x="470" y="395" width="30" height="70" drop-zone="painel" 
-      drop-zone="painelverde">
+  <agent img="switchLock.png" x="470" y="395" width="30" height="70" 
+      drop-zone="painel" drop-zone="painelverde">
       
-      <painel x="-500">
+      <painel x="-500"/>
           
       <painelverde img="switchUnlocked.png" x="470" y="395" width="30" height="70"/>
   </page>
