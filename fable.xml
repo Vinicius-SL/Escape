@@ -19,9 +19,9 @@
     on-drop="painel"/>
         
   <agent img="locked.png" x="330" y="155" width="70" height="120"/>
-            <painel x="-500"/>
+            
   <agent img="switchLock.png" x="470" y="395" width="30" height="70" drop-zone="painel">
       <painel img="switchUnlocked.png" x="470" y="395" width="30" height="70"/>
-      
+      <painel x="-500"/>
   </page>
 </fable>
